@@ -1,5 +1,5 @@
 # SolarSystemData
-A program for querying data about the solar system, obtained from [The Solar System OpenData](https://api.le-systeme-solaire.net/).
+A program for querying data about the solar system, obtained from [The Solar System OpenData](https://api.le-systeme-solaire.net/en/).
 
 ## Installation
 
