@@ -7,7 +7,7 @@ A program for querying data about the solar system, obtained from [The Solar Sys
 ```shell script
 $ sudo apt-get install libcurl14-gnutls-dev
 $ sudo apt-get install libjansson-dev
-$ sudo apt-get install valgrind`
+$ sudo apt-get install valgrind
 ```
 
 ### Running Instructions:
@@ -17,6 +17,6 @@ $ export LD_LIBRARY_PATH=.
 $ valgrind --leak-check=full ./solar https://api.le-systeme-solaire.net/rest/bodies
 ```
 
-**Note:**  
+**Note:**
 valgrind --leak-check=full can be omitted, this way a memory check won't be performed.
 
