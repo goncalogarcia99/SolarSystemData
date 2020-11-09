@@ -1,13 +1,13 @@
 # SolarSystemData
-A program for querying data about the solar system, obtained from [The Solar System OpenData](https://api.le-systeme-solaire.net/en/).
+A program for querying data about the solar system, obtained from [The Solar System OpenData](https://www.api.le-systeme-solaire.net/en/).
 
 ## Installation
 
 ### Dependencies (Ubuntu)
 ```shell script
-$ sudo apt install libcurl14-gnutls-dev
-$ sudo apt install libjansson-dev
-$ sudo apt install valgrind
+$ sudo apt-get install libcurl14-gnutls-dev
+$ sudo apt-get install libjansson-dev
+$ sudo apt-get install valgrind
 ```
 
 ### Running Instructions
