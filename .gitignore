@@ -1,0 +1,9 @@
+# gedit backups.
+*~
+# Intermediate files.
+*.i
+*.s
+*.o
+# Executable file.
+solar
+
